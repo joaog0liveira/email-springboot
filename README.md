@@ -1,4 +1,4 @@
-# email-springboot
+# Email Springboot
  
 Este é um projeto simples que demonstra como enviar e-mails usando o Spring Boot.
 
